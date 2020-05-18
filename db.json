@@ -2,10 +2,8 @@
   "posts": [
     {
       "titulo": "Bem-Vindos!",
-      "novatos": [
-          "Eder", "Edu"
-      ],
-      "mensagem":"Espero que vcs cresçam muito aqui com a gente!"
+      "mensagem":"Espero que vcs cresçam muito aqui com a gente!",
+      "novatos": ["Eder", "Edu"]
     }
   ]
 }
