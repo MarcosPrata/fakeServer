@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "congrats": [
     {
-      "id": 1,
-      "title": "hello"
+      "titulo": "Bem-Vindos!"
+      "Novatos": [
+          "Eder", "Erick"
+      ]
     }
   ]
 }
